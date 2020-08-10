@@ -183,6 +183,6 @@ selector {
 * inline-style => 1000 pts
 
 
-![specificity](./images/specificity1.png)
+![specificity](./specificity1.png)
 - [Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/24/)
   
