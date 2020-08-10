@@ -8,88 +8,72 @@
     <title>Selectors</title>
     <style>
       /* basic selectors */
-
-      /* 0,0,1  = 1 */ 
+      /* body, h1 */
+      
       body {
-        font-family: 'Gayathri', sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
       }
 
-      /* 0,0,1  = 1 */ 
       h1 {
-        color: royalblue;
-        font-size: 2.5em;
+        color: aquamarine;
       }
 
-    
-     
+      
       /* class selector color of sub-titles*/
-      /* 0.1.1 = 11 */
-      h2.sub-titles {
-        background-color: lightgreen;
-      }
-  
-
-      h2 {
-        background-color: lightgray;
-      }
-
-
-    
+      /* h2 class */  
+          .sub-titles {
+            color: coral;
+          }
 
       /* id selector. remove list style */
+      /* id on the ul */
 
-      /* 1,0,0 = 100 */
       #id-selector {
-        border: 1px solid aquamarine;
-        padding: 1em;
-        background-color: lightpink;
+        background-color: lightblue;
       }
 
-      /* descendent selectors make boxes out of a list*/
+      /* descendent selectors make boxes out of list items */
 
-      /* 1,0,1 = 101  */
       #id-selector li {
-        border: 1px solid red;
+        color: white; 
       }
-     
 
       /* attribute selectors li active-item*/
 
-      /* 0,1,1 = 11 */
+      li[data-item="active"] {
 
-      li[data-item="active"] { 
-        font-weight: bold;
-        color: green;
-        background-color: lightyellow;
+        background-color: lightsalmon;
+
       }
-    
+
       /* ol descendent selector */
 
-      /* 0,0,2  = 2 */
       ol li {
-        color: mediumblue;
+
+        border: 1px solid lightskyblue;
+
       }
 
       /* ol direct child */
 
-      /* 0,0,2  = 2 */
       ol > li {
-        color: mediumorchid;
+        border: 1px solid orange;
       }
+      
 
-      /* adjacent sibling .list-item */
+      /* adjacent sibling .list-item + */
+      /* next siblings ~ */
    
-      /* 0,1,1 = 11 */
       .list-item + li {
-        background-color: lightseagreen;
+        background-color: peachpuff;
       }
 
       /* attribute selector & :checked pseudo-class & adjacent sibling selector */
-  
-      /* 0, 2, 2 = 22 */
+    
       input[type="checkbox"]:checked + label {
         text-decoration: line-through;
-      } 
+      }
+
 
 
     </style>
