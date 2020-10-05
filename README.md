@@ -24,7 +24,7 @@ DEMO 📺
 ## CSS Box Model ⬜
 
 - Every HTML element has a box around it 🔳
-- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/nmLzpeo7/31/)
+- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/nmLzpeo7/54/)
 - 🔗[Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 - Box-sizing property
 
@@ -37,7 +37,7 @@ DEMO 📺
 - Since the flow is changed, elements are not part of the normal flow
 - The parent element contained floated elements can collapsed
 
-- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/59/)
+- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/374/)
 
 ## Flexbox 💟
 
@@ -49,8 +49,8 @@ DEMO 📺
 
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
-- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/pozexhjb/2/)
-- 🔗[Flexbox Exercise](https://jsfiddle.net/dtremblay/5ajL4zog/47/)
+- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/pozexhjb/69/)
+- 🔗[Flexbox Exercise](https://jsfiddle.net/dtremblay/5ajL4zog/195/)
 - 🔗[Reference Layout](https://cl.ly/053X3l0D3z2M/Image%202017-10-22%20at%201.16.28%20PM.png)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -65,7 +65,7 @@ DEMO 📺
 - Descendant Selector
 - Sibling Selector
 
-- 🔗[Selectors](https://jsfiddle.net/dtremblay/e3v095ws/149/)
+- 🔗[Selectors](https://jsfiddle.net/dtremblay/e3v095ws/193/)
 
 ## Understanding The Cascasde 💦
 
@@ -93,7 +93,7 @@ To determine the winning style, the browser will go through a cascade.
 
 ![specificity](./specificity1.png)
 
-- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/27/)
+- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/35/)
 
 #### Source Order 🎢
 
