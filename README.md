@@ -51,6 +51,7 @@ DEMO 📺
 
 - 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/190/)
 - 🔗[Flexbox Breakout Exercise](https://gist.github.com/DominicTremblay/83357ef5d5d006a87a5774893bb9addd)
+- 🔗[Flexbox Exercise - Solution](https://jsfiddle.net/dtremblay/p71v9mwb/176/)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## CSS Selector
@@ -92,7 +93,7 @@ To determine the winning style, the browser will go through a cascade.
 
 ![specificity](./specificity1.png)
 
-- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/127/)
+- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/138/)
 
 #### Source Order 🎢
 
