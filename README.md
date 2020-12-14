@@ -50,7 +50,7 @@ DEMO 📺
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
 - 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/190/)
-- 🔗[Flexbox Breakout Exercise](https://jsfiddle.net/dtremblay/p71v9mwb/79/)
+- 🔗[Flexbox Breakout Exercise](https://gist.github.com/DominicTremblay/83357ef5d5d006a87a5774893bb9addd)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## CSS Selector
