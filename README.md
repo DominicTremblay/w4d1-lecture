@@ -24,7 +24,7 @@ DEMO 📺
 ## CSS Box Model ⬜
 
 - Every HTML element has a box around it 🔳
-- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/nmLzpeo7/31/)
+- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/nmLzpeo7/105/)
 - 🔗[Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 - Box-sizing property
 
