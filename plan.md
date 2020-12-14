@@ -37,7 +37,7 @@ DEMO 📺
 - Since the flow is changed, elements are not part of the normal flow
 - The parent element contained floated elements can collapsed
 
-- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/59/)
+- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/397/)
 
 ## Flexbox 💟
 
@@ -49,9 +49,8 @@ DEMO 📺
 
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
-- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/pozexhjb/2/)
-- 🔗[Flexbox Exercise](https://jsfiddle.net/dtremblay/5ajL4zog/47/)
-- 🔗[Reference Layout](https://cl.ly/053X3l0D3z2M/Image%202017-10-22%20at%201.16.28%20PM.png)
+- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/190/)
+- 🔗[Flexbox Breakout Exercise](https://jsfiddle.net/dtremblay/p71v9mwb/79/)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## CSS Selector
@@ -93,7 +92,7 @@ To determine the winning style, the browser will go through a cascade.
 
 ![specificity](./specificity1.png)
 
-- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/27/)
+- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/127/)
 
 #### Source Order 🎢
 
@@ -105,3 +104,10 @@ To determine the winning style, the browser will go through a cascade.
 - 1️⃣Inline
 - 2️⃣Internal
 - 3️⃣External
+
+## CSS Games
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+- [CSS Diner](https://flukeout.github.io/)
