@@ -7,7 +7,6 @@
 - CSS Layout
   - Float
   - Flexbox
-- CSS Selector
 - Understanding the cascade
 
 ## Approach 🆕
@@ -54,18 +53,6 @@ DEMO 📺
 - 🔗[Flexbox Exercise - Solution](https://jsfiddle.net/dtremblay/p71v9mwb/176/)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-## CSS Selector
-
-### Types of Selectors
-
-- Basic Selector
-- Class Selector
-- ID Selector
-- Attribute Selector
-- Descendant Selector
-- Sibling Selector
-
-- 🔗[Selectors](https://jsfiddle.net/dtremblay/e3v095ws/149/)
 
 ## Understanding The Cascasde 💦
 
