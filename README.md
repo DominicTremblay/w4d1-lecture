@@ -16,6 +16,9 @@
 - 3️⃣ Focus is on plain vanilla CSS for now
 - 4️⃣ CSS can be frustrating at first🙀
 
+
+- [Slides Here](./W4D1_Intro_CSS.pdf)
+
 ## New Project: Tweeter🐤
 
 DEMO 📺
@@ -36,7 +39,7 @@ DEMO 📺
 - Since the flow is changed, elements are not part of the normal flow
 - The parent element contained floated elements can collapsed
 
-- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/397/)
+- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/435/)
 
 ## Flexbox 💟
 
@@ -48,7 +51,7 @@ DEMO 📺
 
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
-- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/190/)
+- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/486/)
 - 🔗[Flexbox Breakout Exercise](https://gist.github.com/DominicTremblay/83357ef5d5d006a87a5774893bb9addd)
 - 🔗[Flexbox Exercise - Solution](https://jsfiddle.net/dtremblay/p71v9mwb/176/)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
