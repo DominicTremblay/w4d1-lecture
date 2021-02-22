@@ -26,7 +26,7 @@ DEMO 📺
 ## CSS Box Model ⬜
 
 - Every HTML element has a box around it 🔳
-- 🔗[jsfiddle - box model](https://jsfiddle.net/xmj2bo9g/)
+- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/r7082xb6/4/)
 - 🔗[Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 - Box-sizing property
 
@@ -51,8 +51,8 @@ DEMO 📺
 
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
-- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/488/)
-- 🔗[Flexbox Breakout Exercise](https://gist.github.com/DominicTremblay/83357ef5d5d006a87a5774893bb9addd)
+- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/587/)
+- 🔗[Flexbox Breakout Exercise](https://jsfiddle.net/dtremblay/p71v9mwb/79/)
 - 🔗[Flexbox Exercise - Solution](https://jsfiddle.net/dtremblay/p71v9mwb/176/)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
