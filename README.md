@@ -102,3 +102,4 @@ To determine the winning style, the browser will go through a cascade.
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 - [CSS Diner](https://flukeout.github.io/)
+- [Specificity Calulator](https://specificity.keegan.st/)
