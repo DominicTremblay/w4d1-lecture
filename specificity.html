@@ -1,37 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  
+  <title>CSS Specificity</title>
+  
+  <style>
+    /* 0,0,0,1 = 1*/
+    h1 {
+      color: coral;
+    }
+    </style>
     <link rel="stylesheet" href="./styles.css">
-    <title>CSS Specificity</title>
-  </head>
 
-  <body>
-    <header id="page-header">
-      <nav class="navigation">
-        <ul class="menu">
-          <li class="menu-item"><a href="#">&#127846;</a></li>
-          <li class="menu-item"><a href="#">&#127847;</a></li>
-          <li class="menu-item"><a class='active' href="#">&#127848;</a></li>
-          <li class="menu-item"><a href="#">&#127849;</a></li>
-        </ul>
-      </nav>
-    </header>
 
-    <main>
+</head>
 
-      <h1>THE ICE CREAM FROM THE ISLANDS</h1>
+<body>
+  <header id="page-header">
+    <nav class="navigation">
+      <ul class="menu">
+        <li class="menu-item"><a href="#">&#127846;</a></li>
+        <li class="menu-item"><a href="#">&#127847;</a></li>
+        <li class="menu-item"><a class='active' href="#">&#127848;</a></li>
+        <li class="menu-item"><a href="#">&#127849;</a></li>
+      </ul>
+    </nav>
+  </header>
 
-      <h2 class="sub-title">Where there's a Kalise, there's an island: yours.</h2>
+  <main>
 
-      <p id='description'>
-        For very little money, we go wherever you want. Choose your island, imagine it, dream it. And add friends or strangers, adventures or fantastic stories, amazing characters or zombies.
-        Anything goes on the Kalise Islands...
-      </p>
-    </main>
-  </body>
+    <h1>THE ICE CREAM FROM THE ISLANDS</h1>
+
+    <h2 class="sub-title">Where there's a Kalise, there's an island: yours.</h2>
+
+    <p id='description'>
+      For very little money, we go wherever you want. Choose your island, imagine it, dream it. And add friends or
+      strangers, adventures or fantastic stories, amazing characters or zombies.
+      Anything goes on the Kalise Islands...
+    </p>
+  </main>
+</body>
 
 </html>
