@@ -7,7 +7,7 @@
 - CSS Layout
   - Float
   - Flexbox
-- Understanding the cascade
+- CSS Specificity
 
 ## Approach 🆕
 

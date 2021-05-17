@@ -1,21 +1,27 @@
 
-/* 0, 0, 0, 0 */
+/* 0, 0, 0, 2 => 2 */
+main h1 {
+  color: aquamarine;
+}
+
+
+/* 0, 0, 0, 1 */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* 0, 0, 0, 0 */
+/* 0, 0, 1, 1 */
 h2.sub-title {
   color: darkgrey;
 }
 
-/* 0, 0, 0, 0 */
+/* 0, 1, 2, 0 */
 #page-header .navigation .menu {
   display: flex;
   list-style: none;
 }
 
-/* 0, 0, 0, 0 */
+/* 0, 0, 2, 0 */
 .navigation .menu-item {
   font-size: 3em;
   margin: 0.5em;
@@ -26,24 +32,24 @@ h2.sub-title {
   text-decoration: none;
 }
 
-/* 0,0,0,0 */
+/* 0,0,1,2 */
 header .menu-item a {
   padding: 0.2em;
   border-radius: 5px;
   transition: all ease-in-out 0.3s;
 }
 
-/* 0,0,0,0 */
+/* 0,0,2,2 */
 header .menu-item a.active {
   background-color: gold;
 }
 
-/* 0,0,0,0 */
+/* 0,0,2,2 */
 header .menu-item a:hover {
   background-color: coral;
 }
 
-/* 0,0,0,0 */
+/* 0,1,0,1 */
 p#description {
   font-style: italic;
   color: dimgrey;
