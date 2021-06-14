@@ -49,3 +49,9 @@ p#description {
   color: dimgrey;
 }
 
+/* 0,0,0,2 */
+
+main h1 {
+  color: aquamarine !important;
+}
+

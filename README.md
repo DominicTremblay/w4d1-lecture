@@ -7,6 +7,7 @@
 - CSS Layout
   - Float
   - Flexbox
+- CSS Selector
 - Understanding the cascade
 
 ## Approach 🆕
@@ -16,9 +17,6 @@
 - 3️⃣ Focus is on plain vanilla CSS for now
 - 4️⃣ CSS can be frustrating at first🙀
 
-
-- [Slides Here](./W4D1_Intro_CSS.pdf)
-
 ## New Project: Tweeter🐤
 
 DEMO 📺
@@ -26,7 +24,7 @@ DEMO 📺
 ## CSS Box Model ⬜
 
 - Every HTML element has a box around it 🔳
-- 🔗[jsfiddle - box model](https://jsfiddle.net/xmj2bo9g/)
+- 🔗[jsfiddle - box model](https://jsfiddle.net/dtremblay/r7082xb6/4/)
 - 🔗[Interactive box-model demo](http://guyroutledge.github.io/box-model/)
 - Box-sizing property
 
@@ -39,7 +37,7 @@ DEMO 📺
 - Since the flow is changed, elements are not part of the normal flow
 - The parent element contained floated elements can collapsed
 
-- 🔗[Floats - jsFiddle](https://jsfiddle.net/zgpn6d2L/2/)
+- 🔗[Floats - jsFiddle](https://jsfiddle.net/dtremblay/493tjkaz/435/)
 
 ## Flexbox 💟
 
@@ -51,11 +49,23 @@ DEMO 📺
 
 - When working with flexbox you need to think in terms of two axes — the **main axis** and the **cross axis**. The main axis is defined by the `flex-direction` property, and the cross axis runs perpendicular to it.
 
-- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/488/)
+- 🔗[Flexbox Layout Demo](https://jsfiddle.net/dtremblay/m70x3h6p/486/)
 - 🔗[Flexbox Breakout Exercise](https://gist.github.com/DominicTremblay/83357ef5d5d006a87a5774893bb9addd)
-- 🔗[Flexbox Exercise - Solution](https://jsfiddle.net/dtremblay/p71v9mwb/176/)
+- [Flexbox Breakout Solution](https://jsfiddle.net/dtremblay/p71v9mwb/610)
 - 🔗[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+## CSS Selector
+
+### Types of Selectors
+
+- Basic Selector
+- Class Selector
+- ID Selector
+- Attribute Selector
+- Descendant Selector
+- Sibling Selector
+
+- 🔗[Selectors](https://jsfiddle.net/dtremblay/e3v095ws/149/)
 
 ## Understanding The Cascasde 💦
 
@@ -83,7 +93,7 @@ To determine the winning style, the browser will go through a cascade.
 
 ![specificity](./specificity1.png)
 
-- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/100/)
+- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/138/)
 
 #### Source Order 🎢
 
@@ -102,4 +112,3 @@ To determine the winning style, the browser will go through a cascade.
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 - [CSS Diner](https://flukeout.github.io/)
-- [Specificity Calulator](https://specificity.keegan.st/)
