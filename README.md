@@ -83,7 +83,7 @@ To determine the winning style, the browser will go through a cascade.
 
 ![specificity](./specificity1.png)
 
-- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/100/)
+- 🔗[Selectors Specifity](https://jsfiddle.net/dtremblay/xr94uLnb/233/)
 
 #### Source Order 🎢
 
